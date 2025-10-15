@@ -4,7 +4,7 @@
 This project predicts heart disease using patient data and visualizes results in Power BI.
 
 ## Dataset
-- Source: [add dataset source, e.g., Kaggle link]
+- Source: [Kaggle – Heart Disease]
 - Features:
   - Age, RestingBP, Cholesterol, FastingBS, MaxHR, Oldpeak
   - Sex_M, ChestPainType, RestingECG, ExerciseAngina, ST_Slope
@@ -21,4 +21,5 @@ This project predicts heart disease using patient data and visualizes results in
   - Feature distributions and trends
 - **Page 2: After Prediction**
   - Shows Actual vs Predicted outcomes
+
   - Model metrics (Accuracy, Confusion Matrix)
